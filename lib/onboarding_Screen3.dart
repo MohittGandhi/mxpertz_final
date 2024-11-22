@@ -95,7 +95,7 @@ class OnboardingScreen3 extends StatelessWidget {
                             MaterialPageRoute(
                               builder: (context) => LoginScreen(),
                             ),
-                          );
+                          );// uh iu o i ioniobi9uno
                         },
                         child: Image.asset(
                           "assets/arrow.png",
