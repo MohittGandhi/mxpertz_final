@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "664270848856",
+    "project_id": "mxpertztask1",
+    "storage_bucket": "mxpertztask1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664270848856:android:161270427fc74af5265b2d",
+        "android_client_info": {
+          "package_name": "com.example.mxpertz_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664270848856-2e2k49ib73kkotunaoaa4km1784mcjve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChwKpRpK42e0FdOgca-V6ph4fUyNj14a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664270848856-2e2k49ib73kkotunaoaa4km1784mcjve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664270848856-5ftlkecn9b70n3sbd5tblvjgi665dqpp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mxpertzTask1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664270848856:android:7d13e0aa23d85f7d265b2d",
+        "android_client_info": {
+          "package_name": "com.example.mxpertz_task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664270848856-alsuo6doqctvijf29s1ln6plns8cnjr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mxpertz_task1",
+            "certificate_hash": "cd84cbb2612b55622fd9386deb4884519a6b54c0"
+          }
+        },
+        {
+          "client_id": "664270848856-2e2k49ib73kkotunaoaa4km1784mcjve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChwKpRpK42e0FdOgca-V6ph4fUyNj14a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664270848856-2e2k49ib73kkotunaoaa4km1784mcjve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664270848856-5ftlkecn9b70n3sbd5tblvjgi665dqpp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mxpertzTask1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
